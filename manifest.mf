@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.simsilica.zayes
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: com/simsilica/zayes/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/simsilica/zayes/Bundle.properties
+
